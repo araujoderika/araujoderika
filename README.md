@@ -17,7 +17,7 @@
 ## 🚀 Tecnologias & Ferramentas
  
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,r,mysql,postgres,git,github,vscode,jupyter&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,r,git,github,vscode,jupyter&theme=dark" />
 </div>
 <br>
 </div>
