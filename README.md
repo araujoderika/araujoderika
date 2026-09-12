@@ -8,7 +8,7 @@
 <br>
 ## 💜 Sobre mim
  
-- 🎓 Estudante de **Banco de Dados**
+- 🎓 Estudante de **Tecnologia em Banco de Dados**
 - 🤖 Interesse crescente em **Inteligência Artificial**, com foco em **classificação e rotulagem de dados**
 - 🔎 Sempre buscando aprender mais sobre dados, modelagem e machine learning
 - 🌱 Em constante evolução — cada projeto é um novo aprendizado
